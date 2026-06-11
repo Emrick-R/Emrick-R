@@ -1,11 +1,11 @@
 <h1 align="center">Bien le bonjour 👋, Je suis Emrick RIVET</h1>
 <h3 align="center">Etudiant en bachelor 1 informatique chez Ynov Capus Sophia</h3>
 
-- 🔭 Je suis actuellement sur un projet [Puissance-4_AF_ER_HF](https://github.com/Harld9/Puissance-4_AF_ER_HF)
+- 🔭 Je suis actuellement sur un projet web perso)
 
-- 🌱 J'apprend actuellement **GOLANG, HTML, CSS**
+- 🌱 J'apprend actuellement **Express JS, HTML, CSS**
 
-- 📫 Comment me joindre **emrick.rivet@ynov.com**
+- 📫 Comment me joindre **emrick.rivet@outlook.fr**
 
 - ⚡ Fun fact **Je suis un gros fan de JV !**
 
