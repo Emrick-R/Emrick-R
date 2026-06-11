@@ -25,7 +25,7 @@
 
 - **Email** : emrick.rivet@outlook.fr
 - **LinkedIn** : [emrick-rivet](https://www.linkedin.com/in/emrick-rivet-763910178/)
-- **Portfolio** : [Mon portfolio](https://github.com/Harld9/Abyssal-Clicker](https://emrick-r.github.io/Portfolio-web/)
+- **Portfolio** : [Mon portfolio](https://emrick-r.github.io/Portfolio-web/)
 
 ---
 
