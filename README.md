@@ -14,7 +14,6 @@
 
 - 🎮 **[BuildVault](https://github.com/Emrick-R)** — site perso pour sauvegarder ses builds et équipements par jeu vidéo *(Node.js / Express)*
 - 🌊 **[Abyssal Clicker](https://github.com/Harld9/Abyssal-Clicker)** — clicker game océanique en JavaScript pur
-- 🌐 **Mon portfolio** — déployé sur GitHub Pages
 
 ## 🌱 Ce que j'apprends en ce moment
 
@@ -26,7 +25,7 @@
 
 - **Email** : emrick.rivet@outlook.fr
 - **LinkedIn** : [emrick-rivet](https://www.linkedin.com/in/emrick-rivet-763910178/)
-- **Portfolio** : *bientôt disponible*
+- **Portfolio** : [Mon portfolio](https://github.com/Harld9/Abyssal-Clicker](https://emrick-r.github.io/Portfolio-web/)
 
 ---
 
